@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="557baa0b-530c-415e-8549-746ac4beaa8d" name="Changes" comment="day1 select and where statements are added">
-      <change afterPath="$PROJECT_DIR$/Queries/group_by.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queries/like.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="557baa0b-530c-415e-8549-746ac4beaa8d" name="Changes" comment="day1 folder is created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +74,7 @@
       <updated>1678787396076</updated>
       <workItem from="1678787397286" duration="1663000" />
       <workItem from="1678790692461" duration="1277000" />
-      <workItem from="1682504043734" duration="8343000" />
+      <workItem from="1682504043734" duration="9085000" />
     </task>
     <task id="LOCAL-00001" summary="day1 select and where statements are added">
       <created>1682508659184</created>
@@ -87,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682508659184</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day1 folder is created">
+      <created>1682589945008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682589945008</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day1 select and where statements are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="day1 select and where statements are added" />
+    <MESSAGE value="day1 folder is created" />
+    <option name="LAST_COMMIT_MESSAGE" value="day1 folder is created" />
   </component>
 </project>
