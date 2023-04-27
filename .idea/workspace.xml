@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="557baa0b-530c-415e-8549-746ac4beaa8d" name="Changes" comment="day1 folder is renamed">
-      <change afterPath="$PROJECT_DIR$/Queries/Day2- SQL Subquery,String Man,Views/subquery_rownum.sql" afterDir="false" />
+    <list default="true" id="557baa0b-530c-415e-8549-746ac4beaa8d" name="Changes" comment="subquery_rownum.sql is created">
+      <change afterPath="$PROJECT_DIR$/Queries/Day2- SQL Subquery,String Man,Views/string_man_views.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queries/Day2- SQL Subquery,String Man,Views/sub_interview.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/518e23af-bbb3-4e7a-8f88-0ad911b50399.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/518e23af-bbb3-4e7a-8f88-0ad911b50399.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/518e23af-bbb3-4e7a-8f88-0ad911b50399/storage_v2/_src_/schema/HR.CgkAAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/518e23af-bbb3-4e7a-8f88-0ad911b50399/storage_v2/_src_/schema/HR.CgkAAA.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +85,7 @@
       <updated>1678787396076</updated>
       <workItem from="1678787397286" duration="1663000" />
       <workItem from="1678790692461" duration="1277000" />
-      <workItem from="1682504043734" duration="11566000" />
+      <workItem from="1682504043734" duration="16591000" />
     </task>
     <task id="LOCAL-00001" summary="day1 select and where statements are added">
       <created>1682508659184</created>
@@ -105,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682590193666</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="subquery_rownum.sql is created">
+      <created>1682593179790</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682593179790</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +125,7 @@
     <MESSAGE value="day1 select and where statements are added" />
     <MESSAGE value="day1 folder is created" />
     <MESSAGE value="day1 folder is renamed" />
-    <option name="LAST_COMMIT_MESSAGE" value="day1 folder is renamed" />
+    <MESSAGE value="subquery_rownum.sql is created" />
+    <option name="LAST_COMMIT_MESSAGE" value="subquery_rownum.sql is created" />
   </component>
 </project>
